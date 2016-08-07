@@ -1,5 +1,54 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/* === Jennifer P Styles === */
+.jenniferp-advice{
+	width: 80%;
+	margin: 0 auto;
+	background:#fff;
+	font-family: sans-serif;
+	}
+
+.jenniferp-advice h1{
+	font-size: 2em;
+	margin-top: 20px;
+	text-align:left;
+	color:#590808;
+	}
+
+.jenniferp-advice h4{
+	font-size: 1.5em;
+	text-align:left;
+	color: #726A6A;
+	padding-top: 0;
+	}
+	
+.jenniferp-advice p{
+	color:#726A6A;
+	
+	}
+
+.jenniferp-advice a{
+	color:#590707;
+}
+
+
+.jenniferp-advice ul li{
+	color:#26327E;
+	list-style-position:inside;
+	text-indent: 20px;
+	line-height: 3em;
+	}
+.jenniferp-advice footer p{
+	font-size: .8em;
+	text-align:center;
+	color: #861315;
+	}
+	
+.jenniferp-advice section{
+	background:#BFBCBC;
+	padding: 20px;
+	border-bottom: solid #861315 thin;
+	}
 /* === Susannah's Styles === */
 
 .susannahfisher-advice {
